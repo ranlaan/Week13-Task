@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\obj\Debug\netcoreapp3.1\Week13task.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\obj\Debug\netcoreapp3.1\Week13task.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\obj\Debug\netcoreapp3.1\Week13task.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\obj\Debug\netcoreapp3.1\Week13task.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\bin\Debug\netcoreapp3.1\Week13task.exe
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\bin\Debug\netcoreapp3.1\Week13task.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\bin\Debug\netcoreapp3.1\Week13task.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\bin\Debug\netcoreapp3.1\Week13task.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\bin\Debug\netcoreapp3.1\Week13task.dll
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\bin\Debug\netcoreapp3.1\Week13task.pdb
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\obj\Debug\netcoreapp3.1\Week13task.dll
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\obj\Debug\netcoreapp3.1\Week13task.pdb
+C:\Users\opilane\source\repos\LOGitpe21\Week13task\Week13task\obj\Debug\netcoreapp3.1\Week13task.genruntimeconfig.cache
